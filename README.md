@@ -33,9 +33,7 @@ https://github.com/shivam-arch-sys/AWS-S3-Static-Website-Hosting
 ```md
 ![Portfolio Homepage](screenshots/portfolio-homepage.png)
 ```
-
-<img width="100%" src="screenshots/portfolio-homepage.png">
-
+<img width="1470" height="956" alt="Screenshot 2026-07-11 at 5 14 12 PM" src="https://github.com/user-attachments/assets/5fcd6004-c227-4836-b1b0-d97ea0592e01" />
 ---
 
 ## AWS S3 Bucket Objects
@@ -43,9 +41,7 @@ https://github.com/shivam-arch-sys/AWS-S3-Static-Website-Hosting
 ```md
 ![S3 Bucket Objects](screenshots/s3-bucket-objects.png)
 ```
-
-<img width="100%" src="screenshots/s3-bucket-objects.png">
-
+<img width="1135" height="398" alt="Screenshot 2026-07-11 at 5 14 02 PM" src="https://github.com/user-attachments/assets/b53d6521-5d75-4dd8-ab1b-7891efa97b9a" />
 ---
 
 ## Static Website Hosting Configuration
@@ -53,9 +49,7 @@ https://github.com/shivam-arch-sys/AWS-S3-Static-Website-Hosting
 ```md
 ![Static Website Hosting](screenshots/static-website-hosting.png)
 ```
-
-<img width="100%" src="screenshots/static-website-hosting.png">
-
+<img width="1150" height="392" alt="Screenshot 2026-07-11 at 5 13 10 PM" src="https://github.com/user-attachments/assets/517f249f-52de-44ee-b83e-5e23811b9961" />
 ---
 
 ## Bucket Policy Configuration
@@ -63,9 +57,7 @@ https://github.com/shivam-arch-sys/AWS-S3-Static-Website-Hosting
 ```md
 ![Bucket Policy](screenshots/bucket-policy.png)
 ```
-
-<img width="100%" src="screenshots/bucket-policy.png">
-
+<img width="1136" height="569" alt="Screenshot 2026-07-11 at 5 13 39 PM" src="https://github.com/user-attachments/assets/fbacd958-e639-480f-bf15-a54c7b9b1324" />
 ---
 
 # 🏗️ Architecture Workflow
