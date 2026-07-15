@@ -87,6 +87,7 @@ https://github.com/shivam-arch-sys/AWS-S3-Static-Website-Hosting
           │ Static Website Hosting      │
           └─────────────────────────────┘
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aab9a076-4d4d-4435-a039-b34cde10c83b" />
 
 ---
 
